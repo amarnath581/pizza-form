@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    background-color: lightyellow;
+    text-align: center;
+}
+
+form {
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    width: 300px;
+}
+
+input, select {
+    padding: 8px;
+}
+
+button {
+    background-color: orange;
+    padding: 10px;
+}
